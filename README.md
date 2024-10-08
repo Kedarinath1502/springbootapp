@@ -16,7 +16,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the Project**  
    Download the project files from the repository:
    ```bash
-   git clone https://github.com/your-username/simple-rest-service.git
+   git clone https://github.com/Kedarinath1502/springbootapp.git
    ```
 
 2. **Navigate to the Project Directory**
